@@ -16,7 +16,7 @@ A full-stack solution for a modern, seamless food ordering experience.
 - 🔐 User Authentication (Register/Login)
 - 💳 Secure Payment Gateway (Stripe)
 - 📦 Order History and Tracking
-- 🧑‍💼 Admin Dashboard (optional)
+- 🧑‍💼 Admin Dashboard 
 
 ---
 
